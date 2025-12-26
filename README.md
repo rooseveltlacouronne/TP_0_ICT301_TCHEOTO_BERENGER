@@ -1,0 +1,3 @@
+le principr SRP qui ignifie encore single responsability principle st base sur le fait que une classe ne doit avoir qu'une seule responsabilite cet a dire qelle ne doit pas effectuer plusieurs taches  car celle qui en font plusieurs sont difficille a comprendre , modifier et maintenir donc elle be doit avoir qu'une seul raison de changer.
+
+le principe OCP encore appeler open close principle, cet a dire on doit pouvoir ajouter un fonction mais sans modifier le code existant est un principe assez complexe 
