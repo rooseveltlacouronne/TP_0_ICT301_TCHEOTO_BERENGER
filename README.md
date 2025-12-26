@@ -1,3 +1,5 @@
 le principr SRP qui ignifie encore single responsability principle st base sur le fait que une classe ne doit avoir qu'une seule responsabilite cet a dire qelle ne doit pas effectuer plusieurs taches  car celle qui en font plusieurs sont difficille a comprendre , modifier et maintenir donc elle be doit avoir qu'une seul raison de changer.
 
 le principe OCP encore appeler open close principle, cet a dire on doit pouvoir ajouter un fonction mais sans modifier le code existant est un principe assez complexe 
+
+le principe LSP liskov subtitution principle est un principe qui repose sur le fait que je toutes  classe qui herite dune classe mere doit obligatoirement implementer tout ce quelle implemante dont elle doit pouvoir la remplacer ou faire tout ce que la classe mer fait il fau que la classe qui herite puise implementer tout ce que la classe mere fait
