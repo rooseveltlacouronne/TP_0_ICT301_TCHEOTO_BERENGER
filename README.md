@@ -3,3 +3,5 @@ le principr SRP qui ignifie encore single responsability principle st base sur l
 le principe OCP encore appeler open close principle, cet a dire on doit pouvoir ajouter un fonction mais sans modifier le code existant est un principe assez complexe 
 
 le principe LSP liskov subtitution principle est un principe qui repose sur le fait que je toutes  classe qui herite dune classe mere doit obligatoirement implementer tout ce quelle implemante dont elle doit pouvoir la remplacer ou faire tout ce que la classe mer fait il fau que la classe qui herite puise implementer tout ce que la classe mere fait
+
+le principe ISP interface segregation principe est un principe simple car il repose sur le fait que une interface n dot pas avoir plusier mehode car la classe qui l'implemante serais probablement obliger d'implementer certaine methode qui ne lui servent a rien ou quelle  ne peut nene pas probablement effectuer 
